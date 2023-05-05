@@ -1,0 +1,9 @@
+README FILE FOR BRIGHTNESS CONTROL USING HAND GESTURE… 
+1.	Open the file
+2.	Install necessary libraries (mediapipe, cv2, numpy, brightnesscontrolmodule, etc.) using the command “pip install ‘#########’ ”
+3.	‘########’ is the name of library.
+4.	After installing, run the main file.
+5.	A pop-up window will appear on the screen with the webcam turned on.
+6.	Using two fingers to control the brightness.
+7.	If the distance between the fingers increases, the brightness will increase else decrease.
+8.	After attaining the required brightness, stop the program.
